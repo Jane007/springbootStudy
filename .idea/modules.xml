@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-register/eureka.iml" filepath="$PROJECT_DIR$/eureka-register/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jingjing.iml" filepath="$PROJECT_DIR$/jingjing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-producer/producer.iml" filepath="$PROJECT_DIR$/eureka-producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producerb/producerb.iml" filepath="$PROJECT_DIR$/producerb/producerb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-zull/zull.iml" filepath="$PROJECT_DIR$/eureka-zull/zull.iml" />
+    </modules>
+  </component>
+</project>

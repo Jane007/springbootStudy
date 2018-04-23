@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka" />
+        <module name="jingjing" />
+        <module name="producer" />
+        <module name="producerb" />
+        <module name="zull" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka" target="1.8" />
+      <module name="eureka-producer" target="1.8" />
+      <module name="eureka-register" target="1.8" />
+      <module name="eureka-zull" target="1.8" />
+      <module name="jingjing" target="1.8" />
+      <module name="producer" target="1.8" />
+      <module name="producerb" target="1.8" />
+      <module name="zull" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
